@@ -42,24 +42,24 @@ drones_produce_ammount = 2000
 antirad_produce_ammount = 0
 
 rocket_buy_res = False
-tank_buy_res = False
-aircraft_buy_res = False
+tank_buy_res = True
+aircraft_buy_res = True
 missle_buy_res = False
-bomber_buy_res = False
+bomber_buy_res = True
 ship_buy_res = False
-moontank_buy_res = False
-station_buy_res = False
+moontank_buy_res = True
+station_buy_res = True
 drones_buy_res = False
 antirad_buy_res = False
 lss_buy_res = False
 
-oil_max_price = 0
-ore_max_price = 0
-uran_max_price = 0
-diam_max_price = 0
-liox_max_price = 0
-hel3_max_price = 0
-riv_max_price = 0
+oil_max_price = 230
+ore_max_price = 220
+uran_max_price = 2285
+diam_max_price = 15259000
+liox_max_price = 5810
+hel3_max_price = 822000
+riv_max_price = 104000
 
 oil_sell_price = 223
 ore_sell_price = 223
