@@ -18,7 +18,7 @@ drones_buy_price = 150000000
 lss_buy_price = 150000000
 
 rocket_prod = False
-lss_prod = False
+lss_prod = True
 tank_prod = True
 aircraft_prod = False
 missle_prod = True
