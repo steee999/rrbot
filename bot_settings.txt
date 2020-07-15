@@ -1,5 +1,5 @@
-oil_buy_price = 222
-ore_buy_price = 222
+oil_buy_price = 220
+ore_buy_price = 221
 uran_buy_price = 2259
 diam_buy_price = 1455000
 liox_buy_price = 5500
@@ -61,8 +61,8 @@ liox_max_price = 5810
 hel3_max_price = 822000
 riv_max_price = 104000
 
-oil_sell_price = 223
-ore_sell_price = 223
+oil_sell_price = 221
+ore_sell_price = 222
 uran_sell_price = 2260
 diam_sell_price = 1456000
 liox_sell_price = 5001
