@@ -1,6 +1,6 @@
-oil_buy_price = 220
-ore_buy_price = 221
-uran_buy_price = 2259
+oil_buy_price = 215
+ore_buy_price = 207
+uran_buy_price = 2246
 diam_buy_price = 1455000
 liox_buy_price = 5500
 hel3_buy_price = 815000
@@ -53,7 +53,7 @@ drones_buy_res = True
 antirad_buy_res = False
 lss_buy_res = True
 
-oil_max_price = 230
+oil_max_price = 216
 ore_max_price = 220
 uran_max_price = 2285
 diam_max_price = 15259000
@@ -61,22 +61,22 @@ liox_max_price = 5810
 hel3_max_price = 822000
 riv_max_price = 104000
 
-oil_sell_price = 221
-ore_sell_price = 222
-uran_sell_price = 2260
+oil_sell_price = 216
+ore_sell_price = 208
+uran_sell_price = 2247
 diam_sell_price = 1456000
 liox_sell_price = 5001
-hel3_sell_price = 815000
+hel3_sell_price = 820000
 riv_sell_price = 110000
 antirad_sell_price = 0
 rocket_sell_price = 0
-lss_sell_price = 200000000
+lss_sell_price = 257000000
 tank_sell_price = 7900
 aircraft_sell_price = 52000
 missle_sell_price = 430000
 bomber_sell_price = 550000
 ship_sell_price = 0
-drones_sell_price = 272000000
+drones_sell_price = 270000000
 moontank_sell_price = 685000
 station_sell_price = 12000000
 
